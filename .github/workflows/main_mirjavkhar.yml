@@ -34,5 +34,4 @@ jobs:
           app-name: 'mirjavkhar'
           slot-name: 'Production'
           package: .
-          package: .
           
